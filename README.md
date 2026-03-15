@@ -10,7 +10,7 @@ My experience includes working with Git, GitHub, Docker, CI/CD pipelines, and AW
 ## Skills and Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,docker,aws,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,docker,aws,sql" />
 </p>
 
  ## Connect With Me
