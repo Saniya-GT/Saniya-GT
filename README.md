@@ -1,6 +1,6 @@
 ##  Hi, I'm Saniya G T
 
-💻 Software Engineer | DevOps & Cloud Enthusiast  
+Software Engineer | DevOps & Cloud Enthusiast  
 
 ---
 
