@@ -10,7 +10,7 @@ My experience includes working with java, python, AI/ML, Git, GitHub, Linux, Jen
 ## Skills and Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c++,git,github,jenkins,linux,aws,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,git,github,jenkins,linux,aws,mysql" />
 </p>
 
  ## Connect With Me
