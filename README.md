@@ -6,11 +6,11 @@ Software Engineer | DevOps & Cloud Enthusiast
 
 I am a passionate Software Engineer with a strong interest in DevOps, Cloud Computing, and Frontend Development. I enjoy building modern web applications and exploring cloud technologies.
 
-My experience includes working with Git, GitHub, Docker, CI/CD pipelines, and AWS.
+My experience includes working with java, python, AI/ML, Git, GitHub, Linux, Jenkins, Nginx, CI/CD pipelines, and AWS.
 ## Skills and Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,docker,aws,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c++,git,github,jenkins,linux,aws,mysql" />
 </p>
 
  ## Connect With Me
